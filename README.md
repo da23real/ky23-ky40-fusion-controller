@@ -2,6 +2,10 @@
 
 Control Fusion 360 (and other software) using a joystick (KY23) and a rotary encoder (KY40).
 
+## 🎥 Demo
+
+https://youtu.be/Q9Bv5iPM3A8
+
 ---
 
 ## 🚀 Features
@@ -90,6 +94,4 @@ MIT License
 
 ---
 
-## 🎥 Demo
 
-(see YouTube video)
